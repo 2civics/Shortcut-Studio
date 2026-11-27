@@ -6,6 +6,8 @@
 
 A lightweight, zero-dependency **Windows 11 Fluent Desktop Shortcut Creator** built in PowerShell and WPF. Shortcut Studio makes it fast and effortless to create Desktop shortcuts for **Microsoft Store (UWP/MSIX) apps**, **Win32 executables**, **scripts**, **folders**, and **web URLs**—with real icon extraction, a visual `.dll`/`.exe` icon grid browser, live Auto/Dark/Light theming, and host-matched UAC elevation.
 
+<img width="1046" height="693" alt="Screenshot 2026-11-26 224645" src="https://github.com/user-attachments/assets/9b16dd17-484e-4bf0-985e-aeabe6b9203c" />
+
 ---
 
 ## Why Shortcut Studio Was Made
